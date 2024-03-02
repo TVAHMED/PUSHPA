@@ -202,7 +202,6 @@ os.system('clear')
 banner()
 #MENU
 def menu():
-	os.system('xdg-open https://youtube.com/@Quranulkareem.1)
 	_IPYTHONI_(f'\x1b[1;98m[1-] CRACK FILE IDS AND PASSWORD')
 	_____IPYTHONI_____ = input('\x1b[1;95mCHOOSE :\x1b[1;97m ')
 	if _____IPYTHONI_____ in ['1']:
